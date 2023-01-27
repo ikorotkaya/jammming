@@ -1,6 +1,7 @@
 
 # Jammming
-Jammming is a simple React app built with the guidance of Codecademy's "Full-Stack Engineer" career path. 
+Jammming is a React app that allows users to interact with Spotify. 
+(Requires having a Spotify account for playlists to be saved)
 
 The purpose is to create a simple app that allows users to:
 
